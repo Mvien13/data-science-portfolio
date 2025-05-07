@@ -12,6 +12,11 @@ This project analyzes a wine quality dataset to predict wine quality based on ph
 - **Accuracy**: Achieved 78% prediction accuracy.
 - **Languages/Tools**: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 
+### [Mall Customer Segmentation and Marketing Insights](https://github.com/Mvien13/Mall-Customer-Segmentation-and-behaviors-analysis.git)
+This project analyzes customer data from a shopping mall, segmenting customers based on age, income, and spending score to provide actionable marketing insights for targeted campaigns.
+- **Key Techniques Used**: Data Preprocessing, Customer Segmentation, Exploratory Data Analysis (EDA), Data Visualization
+- **Languages/Tools**: Python (Pandas, Matplotlib, Seaborn)
+
 ---
 
 ## About Me
